@@ -5,7 +5,10 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import joblib
 
-# --- SECTION 0: Preparing data ---
+# App title
+st.title("Customer Churn Data Interactive Dashboard")
+
+# --- SECTION 0: Loading Data ---
 # Loading data
 @st.cache_data
 def load_data():
