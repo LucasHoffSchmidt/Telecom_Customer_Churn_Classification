@@ -8,8 +8,7 @@ import joblib
 # App title
 st.title("Customer Churn Data Interactive Dashboard")
 
-# --- SECTION 0: Loading Data ---
-# Loading data
+# Loading and caching data
 @st.cache_data
 def load_data():
     churn_df = joblib.load("data/churn_df.pkl")
