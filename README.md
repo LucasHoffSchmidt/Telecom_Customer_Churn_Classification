@@ -5,7 +5,7 @@ Data science project of developing a classification model to classify customers 
 - Streamlit app for interactive data and model predictions analysis: [Streamlit App](https://telecom-customer-churn-classification.streamlit.app/)
 - Power BI dashboard analysis of churn data features: [Power BI Dashboard Analysis](power_bi/dashboard_analysis.md)
 - Jupyter Notebook of the development of the churn classification model: [Jupyter Notebook](customer_churn_prediction.ipynb)
-- Telecom customer churn dataset: [Dataset](telco-customer-churn-ibm-dataset/Telco_customer_churn.xlsx)
+- Telecom customer churn dataset: [Telecom Customer Churn Dataset](telco-customer-churn-ibm-dataset/Telco_customer_churn.xlsx)
 - Other projects I have made: [Portfolio Website](https://lucashoffschmidt.github.io/)
 
 ## Problem
