@@ -1,5 +1,5 @@
 # Telecom Customer Churn Classification
-Data science project of developing a classification model to classify customers of a telecommunications company in California, USA as churn or non-churn.
+Data science project of determining the primary drivers behind customers of a telecommunications company in California churning and building a classification model that can determine a customer's likelihood of churning to improve customer retention. 
 
 ## Quick Links
 - Streamlit app for interactive data and model predictions analysis: [Streamlit App](https://telecom-customer-churn-classification.streamlit.app/)
@@ -7,9 +7,6 @@ Data science project of developing a classification model to classify customers 
 - Jupyter Notebook of the development of the churn classification model: [Jupyter Notebook](customer_churn_prediction.ipynb)
 - Telecom customer churn dataset: [Telecom Customer Churn Dataset](telco-customer-churn-ibm-dataset/Telco_customer_churn.xlsx)
 - Other projects I have made: [Portfolio Website](https://lucashoffschmidt.github.io/)
-
-## Problem
-Determining the primary drivers behind customers churning and building a classification model that can determine the likelihood of a customer churning. 
 
 ## Technologies Used
 **Tools and Platforms**
@@ -27,7 +24,7 @@ Determining the primary drivers behind customers churning and building a classif
 
 ## Process
 **Data Collection**
-- Acquired the telecom customer churn data for customers in California, USA from kaggle and converted it to a pandas dataframe.
+- Acquired the telecom customer churn data for customers in California, USA from kaggle and converted it to a pandas DataFrame.
 - Defined the attributes of the dataset. 
 
 **Exploratory Data Analysis**
@@ -42,7 +39,7 @@ Determining the primary drivers behind customers churning and building a classif
 - Dropped any feature that is not suitable for modeling, such as high cardinality and constant value features.  
 
 **Model Training and Evaluation**
-- Split the data into training and testing sets, apply ordinal and one-hot encoding to categorical features and define models along with their hyperparameter grids.
+- Split the data into training and testing dataframes, apply ordinal and one-hot encoding to categorical features and define models along with their hyperparameter grids.
 - Performed grid searches to find the best-performing model and evaluate models using f1-score, recall and accuracy. 
 
 **Model Interpretation**
@@ -57,7 +54,7 @@ Determining the primary drivers behind customers churning and building a classif
 - Seniors and single people churn significantly more than non-seniors and people with partners and dependents.
 - Customers with higher internet speed churn more often.
 - The attitude of the support person is listed as the number one reason for churning.
-- The churn classification model performs well and can be used to determine the likelihood of a customer churning with high accuracy. 
+- The churn classification model performs well and can be used to determine the likelihood of a customer churning with high accuracy, which can be used in customer retention efforts. 
 
 ## Improvements
 - These insights have been gathered on a relatively small dataset of about 7000 customers, so to ensure reliability it would be prudent to increase the size of the dataset.
