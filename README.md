@@ -30,7 +30,7 @@ Data science project of determining the primary drivers behind customers of a te
 **Exploratory Data Analysis**
 - Checked the dataframe for null values and incorrect data types and converted the Total Charges feature to float.
 - Checked the statistical distribution of attributes and created a heatmap of numerical attribute correlations.
-- Visualized how churn varies across categorical features such as gender, contract type and payment method as well as numerical features like tenure months and monthly charges.
+- Visualized how churn varies across categorical features such as gender, contract type and payment method as well as numerical features like tenure months and monthly charges using barplots and boxplots.
 - Investigated how the average churn rate varies across cities. 
 
 **Data Preprocessing**
