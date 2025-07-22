@@ -54,7 +54,7 @@ Data science project of determining the primary drivers behind customers of a te
 - Seniors and single people churn significantly more than non-seniors and people with partners and dependents.
 - Customers with higher internet speed churn more often.
 - The attitude of the support person is listed as the number one reason for churning.
-- Logistic Regression has been found to be the best churn classification model and it performs quite well. It can be used to determine the likelihood of a customer churning with high accuracy, which can aid in customer retention efforts. 
+- Logistic Regression has been found to be the best churn classification model at an accuracy of 75%. It can be used to determine the likelihood of a customer churning with high accuracy, which can aid in customer retention efforts. 
 
 ## Improvements
 - These insights have been gathered on a relatively small dataset of about 7000 customers, so to ensure reliability it would be prudent to increase the size of the dataset.
