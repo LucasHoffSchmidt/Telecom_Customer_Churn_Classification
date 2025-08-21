@@ -3,7 +3,7 @@ Data science project of determining the primary drivers behind customers of a te
 
 ## Quick Links
 - Streamlit app for interactive data and model predictions analysis: [Streamlit App](https://telecom-customer-churn-classification.streamlit.app/)
-- Power BI report gallery of churn metrics by key variables: [Power BI Report Gallery](power_bi/dashboard_analysis.md)
+- Power BI report gallery of churn metrics by key variables: [Power BI Report Gallery](power_bi/report_gallery.md)
 - Jupyter Notebook of the development of the churn classification model: [Jupyter Notebook](customer_churn_prediction.ipynb)
 - Telecom customer churn dataset: [Telecom Customer Churn Dataset](telco-customer-churn-ibm-dataset/Telco_customer_churn.xlsx)
 - Other projects I have made: [Portfolio Website](https://lucashoffschmidt.github.io/)
