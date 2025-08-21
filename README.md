@@ -3,7 +3,7 @@ Data science project of determining the primary drivers behind customers of a te
 
 ## Quick Links
 - Streamlit app for interactive data and model predictions analysis: [Streamlit App](https://telecom-customer-churn-classification.streamlit.app/)
-- Power BI dashboard analysis of churn data features: [Power BI Dashboard Analysis](power_bi/dashboard_analysis.md)
+- Power BI report gallery of churn metrics by key variables: [Power BI Report Gallery](power_bi/dashboard_analysis.md)
 - Jupyter Notebook of the development of the churn classification model: [Jupyter Notebook](customer_churn_prediction.ipynb)
 - Telecom customer churn dataset: [Telecom Customer Churn Dataset](telco-customer-churn-ibm-dataset/Telco_customer_churn.xlsx)
 - Other projects I have made: [Portfolio Website](https://lucashoffschmidt.github.io/)
@@ -47,7 +47,7 @@ Data science project of determining the primary drivers behind customers of a te
 
 **Model Deployment**
 - Saved data for use with Power BI and streamlit. 
-- Built a Power BI dashboard and gallery.
+- Built a Power BI report and gallery.
 - Developed a streamlit app with dynamic visualizations and a SHAP-based localized feature importances plot and deployed it via the Streamlit Community Cloud. 
 
 ## Insights
