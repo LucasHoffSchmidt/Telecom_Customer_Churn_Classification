@@ -1,5 +1,5 @@
 # Report Gallery of Telecom Customers Churn Metrics by Key Variables
-## Complete report
+## Complete Report
 ![Full Report](report_pictures/full_report.png)
 
 ## 🚻 Gender
@@ -8,7 +8,7 @@
 ### Male
 ![Male](report_pictures/male.png)
 
-## 🌐 Internet service
+## 🌐 Internet Service
 ### Fiber Optic
 ![Fiber Optic](report_pictures/fiber_optic_internet_service.png)
 
