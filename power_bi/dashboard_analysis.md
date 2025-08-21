@@ -1,4 +1,4 @@
-# Dashboard Analysis Gallery of Telecom Customers Churn Metrics
+# Report Gallery of Telecom Customers Churn Metrics by Key Variables
 ## Complete dashboard
 ![Full Dashboard](dashboard_pictures/full_dashboard.png)
 
